@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisWanjeri
 - 👀 I code change
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering at Holberton school
 - 💞️ I’m looking to collaborate in coding change
 - 📫 How to reach me ... shikandadennis07@gmail.com
 
